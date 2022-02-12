@@ -1,0 +1,22 @@
+body{
+    font-weight: bold !important;
+}
+#banner, #footer{
+    background-color: #5b493c;
+    color: #ffffff;
+}
+#leftmenu{
+    background-color: #f99a3e;
+}
+#maincontent{
+    background-color: #f2f2f2;
+}
+#topmenu{
+    background-color: #c39182;
+}
+#photoa{
+    background-color: #c5697a;
+}
+#photob{
+    background-color: #00a2b6;
+}
